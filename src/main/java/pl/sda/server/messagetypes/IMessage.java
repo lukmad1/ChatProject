@@ -1,4 +1,4 @@
-package pl.sda.server;
+package pl.sda.server.messagetypes;
 
 import java.io.IOException;
 

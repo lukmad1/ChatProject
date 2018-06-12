@@ -1,5 +1,9 @@
 package pl.sda.server;
 
+import pl.sda.server.messagetypes.GroupMessage;
+import pl.sda.server.messagetypes.IMessage;
+import pl.sda.server.messagetypes.PrivateMessage;
+
 import java.io.IOException;
 import java.net.Socket;
 import java.util.Arrays;
